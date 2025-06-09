@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Maria 👋</h1>
 
 <p align="center">
-  👨‍💻 Estudante & Estagiário de Suporte <br>
+  👨‍💻 Estudante & Estagiária de Suporte <br>
 </p>
 
 ---
