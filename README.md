@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 Estudante e Estagiária de Suporte na Redrive 
-
+👨‍💻 Sou estudante de Sistemas de Informação e Trabalho na Epicora Software House no setor do Suporte e como uma Desenvolvedora treinee!v
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariafhoppe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoppemaria98@gmail.com) 
